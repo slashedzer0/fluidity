@@ -8,7 +8,7 @@ Fludity startpage now come with Catppuccin theme!
 You can also just take a look at the [Live Demo](https://slashedzer0.github.io/fluidity/).
 
 ### Themes
-![Default theme](https://github.com/PrettyCoffee/fluidity/blob/main/docs/Catppuccin-theme.png)
+![Catppuccin theme](https://github.com/slashedzer0/fluidity/blob/main/docs/Catppuccin-theme.png)
 
 ## Usage
 You can apply startpages by using several methods. To keep it simple, I will only cover one (the easiest) here:
